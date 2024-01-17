@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Youssef-abdelouali
 - 👀 I’m interested in software engineer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning software engineer
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
 <!---
