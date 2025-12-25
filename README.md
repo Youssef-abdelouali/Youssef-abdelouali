@@ -1,75 +1,39 @@
-# YOUSSEF ABDELOUALI
+<div align="center">
 
-```typescript
-const profile = {
-  name: "YOUSSEF ABDELOUALI",
-  bio: "Full-stack developer focused on building polished front-end experiences.",
-  currentWork: "🚀 What I’m Working On
+# 🌟 Welcome to YOUSSEF ABDELOUALI's Profile 🌟
 
-Building modern, reusable front-end components
+<p><em>Full-stack developer focused on building polished front-end experiences.</em></p>
 
-Improving UI performance, accessibility, and responsiveness
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
 
-Developing real-world projects that combine design and engineering",
-  learning: "What I’m Learning
+</div>
 
-Advanced front-end patterns and best practices
-
-Web performance optimization and modern browser features
-
-Exploring Rust & WebAssembly to understand high-performance web applications",
-  interests: "Front-end engineering,UI animations,performance optimization,and continuous learning.",
-  skills: [
-    "React",
-    "Material UI",
-    "Bootstrap",
-    "Tailwind",
-    "CSS3",
-    "HTML5",
-    "Next.js",
-    "Sass",
-    "Vue.js",
-    "Node.js",
-    "Express",
-    "Django",
-    "MySQL",
-    "SQLite",
-    "Kubernetes",
-    "Docker",
-    "NumPy",
-    "Pandas",
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "PHP",
-    "C"
-  ],
-}
-```
+<hr>
 
 ## 🔭 I'm currently working on
 
-🚀 What I’m Working On
+<div align="center"><p>🚀 What I’m Working On
 
 Building modern, reusable front-end components
 
 Improving UI performance, accessibility, and responsiveness
 
-Developing real-world projects that combine design and engineering
+Developing real-world projects that combine design and engineering</p></div>
 
 ## 🌱 I'm currently learning
 
-What I’m Learning
+<div align="center"><p>What I’m Learning
 
 Advanced front-end patterns and best practices
 
 Web performance optimization and modern browser features
 
-Exploring Rust & WebAssembly to understand high-performance web applications
+Exploring Rust & WebAssembly to understand high-performance web applications</p></div>
 
 ## 👀 I'm interested in
 
-Front-end engineering, UI animations, performance optimization, and continuous learning.
+<div align="center"><p>Front-end engineering, UI animations, performance optimization, and continuous learning.</p></div>
 
 ## 👀 Visitor Count
 
@@ -88,70 +52,53 @@ Front-end engineering, UI animations, performance optimization, and continuous l
 
 ## 💻 Tech Stack
 
-```json
-{
-  "frontend": [
-    "React",
-    "Material UI",
-    "Bootstrap",
-    "Tailwind",
-    "CSS3",
-    "HTML5",
-    "Next.js",
-    "Sass",
-    "Vue.js"
-  ],
-  "backend": [
-    "Node.js",
-    "Express",
-    "Django",
-    "MySQL",
-    "SQLite"
-  ],
-  "devops": [
-    "Kubernetes",
-    "Docker"
-  ],
-  "ai/ml": [
-    "NumPy",
-    "Pandas"
-  ],
-  "languages": [
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "PHP",
-    "C"
-  ]
-}
-```
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Material UI-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&color=ff69b4">
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Django-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&color=4169e1">
+
+### 🚀 DevOps
+
+<img src="https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=9370db">
+
+### 🧠 AI/ML
+
+<img src="https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&color=00CED1">
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500">
+
+</div>
 
 ## 🌐 Socials
 
-```javascript
-const socials = {
-  github: "Youssef-abdelouali",
-  linkedin: "youssef-abdelouali",
-  twitter: "abdeloualiyouss",
-  medium: "@youssefabdelouali225",
-}
-```
+<div align="center">
 
-<div>
-<a href="https://github.com/Youssef-abdelouali"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="www.linkedin.com/in/youssef-abdelouali"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@youssefabdelouali225"><img src="https://img.shields.io/badge/medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://x.com/abdeloualiyouss"><img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://github.com/Youssef-abdelouali"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="www.linkedin.com/in/youssef-abdelouali"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> <a href="https://x.com/abdeloualiyouss"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=6bdfcf"></a> <a href="https://medium.com/@youssefabdelouali225"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white&color=6bdfc7"></a> 
+
 </div>
 
 ## 📫 How to reach me
 
-```javascript
-const contact = {
-  email: "youssefabdelouali0@gmail.com",
-}
-```
+<div align="center">
 
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
+**Email:** youssefabdelouali0@gmail.com
 
-process.exit(0); // Until next time 👋
-```
+</div>
+
+<div align="center">
+
+<!-- ⚠️ Important: Replace 'Youssef-abdelouali' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=Youssef-abdelouali&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/Youssef-abdelouali?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
+</div>
