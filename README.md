@@ -1,53 +1,86 @@
-![Banner](https://user-images.githubusercontent.com/your-banner-url/banner.png)
+<div align="center">
 
-# Hi, I’m Youssef Abdelouali 👋
+# ✨ YOUSSEF ABDELOUALI ✨
 
-## Full-Stack Developer | Front-End Focused
+<p><em>Full-Stack Developer with a passion for Front-End engineering and user experience.</em></p>
 
-I craft **clean, responsive, and interactive web interfaces** that users love.  
-Full-Stack by trade, Front-End by passion, and a lifelong learner by choice.  
-I turn designs into smooth experiences, debug layouts for fun, and occasionally write bugs just to learn smarter.  
+<hr>
 
----
+</div>
 
-## 🛠 Skills
+## 🌱 I'm currently learning
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+<div align="center"><p>Creating reusable, design-system-driven components</p></div>
 
----
+## 👀 I'm interested in
 
-## 💡 Focus Areas
+<div align="center"><p>Exploring React Native to extend UI/UX skills from web to mobile</p></div>
 
-- ⚛️ Front-End Development (HTML, CSS, JS, React, Tailwind)  
-- 🎨 UI/UX Design & Layout Precision  
-- ✨ Animations & Micro-interactions  
-- ⚡ Performance & Responsiveness  
-- 🛠 Back-End Fundamentals (Node.js, APIs)  
+## 🔝 Most Used Languages
 
----
+<!-- ⚠️ Important: Replace 'Youssef-abdelouali' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-abdelouali&layout=compact&langs_count=10&theme=buefy"/>
+</div>
 
-## 💙 Interests
+## 🔥 Contribution Streak
 
-- Front-End engineering & UI craftsmanship  
-- Smooth animations and delightful interactions  
-- Web performance & optimization  
-- Learning new technologies by building and breaking things  
-- Open-source and developer communities  
+<!-- ⚠️ Important: Replace 'Youssef-abdelouali' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-abdelouali&theme=buefy&hide_border=false" />
+</div>
 
----
+## 🐦 Latest Tweet
 
-## 💬 Personal Quote
+<!-- ⚠️ Important: Replace 'abdeloualiyouss' with your actual Twitter username in the URL below -->
+<div align="center">
+  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=abdeloualiyouss" /></a>
+</div>
 
-> “Clean interfaces, smooth interactions, continuous learning.”  
+## 💻 Tech Stack
 
----
+<div align="center">
 
-## 📊 GitHub Stats
+**🎨 Frontend**
 
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+`React` • `Material UI` • `Bootstrap` • `Tailwind` • `Sass` • `Next.js`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+**⚙️ Backend**
+
+`Node.js` • `MySQL` • `MongoDB` • `Django` • `Express`
+
+**🚀 DevOps**
+
+`Kubernetes` • `Docker` • `GitHub Actions`
+
+**🧠 AI/ML**
+
+`Pandas` • `NumPy`
+
+**💬 Languages**
+
+`TypeScript` • `JavaScript` • `Python` • `C`
+
+</div>
+
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/Youssef-abdelouali"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="www.linkedin.com/in/youssef-abdelouali"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://x.com/abdeloualiyouss"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> <a href="https://medium.com/@youssefabdelouali225"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"></a> 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="center">
+
+**Email:** youssefabdelouali0@gmail.com
+
+</div>
+
+<div align="center">
+
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+
+</div>
