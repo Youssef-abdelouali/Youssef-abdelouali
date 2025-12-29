@@ -1,86 +1,91 @@
-<div align="center">
+![Banner](https://your-banner-link.com/banner.png)
 
-# ✨ YOUSSEF ABDELOUALI ✨
+# Hi, I’m Youssef Abdelouali 👋
+**Full-Stack Developer | Front-End Focused**
 
-<p><em>Full-Stack Developer with a passion for Front-End engineering and user experience.</em></p>
+I build **clean, responsive, and interactive user interfaces** while understanding the back-end systems that power them.  
+Full-Stack by trade, Front-End by passion, and a lifelong learner by choice. I enjoy turning designs into smooth, real-world experiences and improving my skills every day.
 
-<hr>
+---
 
-</div>
+## 🛠 Skills
 
-## 🌱 I'm currently learning
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<div align="center"><p>Creating reusable, design-system-driven components</p></div>
+---
 
-## 👀 I'm interested in
+## 🌱 Learning Objectives
+- Advanced front-end patterns & state management  
+- **React Native** for cross-platform mobile applications  
+- Web performance optimization & accessibility  
+- UI animations with **GSAP**  
 
-<div align="center"><p>Exploring React Native to extend UI/UX skills from web to mobile</p></div>
+---
 
-## 🔝 Most Used Languages
+## 💡 Interests
+- Front-End engineering & user-centered UI/UX  
+- Responsive design and performance optimization  
+- Interactive animations and micro-interactions  
+- Open-source collaboration and learning  
 
-<!-- ⚠️ Important: Replace 'Youssef-abdelouali' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-abdelouali&layout=compact&langs_count=10&theme=buefy"/>
-</div>
+---
 
-## 🔥 Contribution Streak
+## 🔭 Current Projects
+**TravelDiary** – Document and visualize your travels with an interactive web app.  
+[View Project](https://your-project-link.com)  
 
-<!-- ⚠️ Important: Replace 'Youssef-abdelouali' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-abdelouali&theme=buefy&hide_border=false" />
-</div>
+**Open-Source Front-End Libraries** – Contributing reusable components and animation tools.  
+[View Project](https://your-project-link.com)  
 
-## 🐦 Latest Tweet
+---
 
-<!-- ⚠️ Important: Replace 'abdeloualiyouss' with your actual Twitter username in the URL below -->
-<div align="center">
-  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=abdeloualiyouss" /></a>
-</div>
+## 👯 Collaboration
+Open to collaborating on front-end projects, UI/UX experiments, and **interactive web applications**.  
+[View Collaboration Project](https://your-project-link.com)  
 
-## 💻 Tech Stack
+---
 
-<div align="center">
+## 🤝 Seeking Help
+Exploring advanced React patterns, performance optimization, and modern **front-end architectures**.  
+[View Project](https://your-project-link.com)  
 
-**🎨 Frontend**
+---
 
-`React` • `Material UI` • `Bootstrap` • `Tailwind` • `Sass` • `Next.js`
+## 💬 Ask Me About
+React, Vue.js, GSAP, front-end architecture, performance optimization, and responsive design.
 
-**⚙️ Backend**
+---
 
-`Node.js` • `MySQL` • `MongoDB` • `Django` • `Express`
+## 📫 Contact Me
+[youssef.abdelouali@gmail.com](mailto:youssef.abdelouali@gmail.com)  
 
-**🚀 DevOps**
+---
 
-`Kubernetes` • `Docker` • `GitHub Actions`
+## 👨‍💻 Portfolio
+[My Projects](https://your-portfolio-link.com)  
 
-**🧠 AI/ML**
+---
 
-`Pandas` • `NumPy`
+## 📝 Articles
+[Medium Articles](https://medium.com/@youssefabdelouali225)  
 
-**💬 Languages**
+---
 
-`TypeScript` • `JavaScript` • `Python` • `C`
+## 📄 Resume
+[View Resume](https://your-resume-link.com)  
 
-</div>
+---
 
-## 🌐 Socials
+## ⚡ Fun Fact
+I like to think I’m funny… but sometimes my code disagrees 😎  
 
-<div align="center">
+---
 
-<a href="https://github.com/Youssef-abdelouali"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="www.linkedin.com/in/youssef-abdelouali"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://x.com/abdeloualiyouss"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> <a href="https://medium.com/@youssefabdelouali225"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"></a> 
-
-</div>
-
-## 📫 How to reach me
-
-<div align="center">
-
-**Email:** youssefabdelouali0@gmail.com
-
-</div>
-
-<div align="center">
-
-✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
-
-</div>
+## 📊 GitHub Stats
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
