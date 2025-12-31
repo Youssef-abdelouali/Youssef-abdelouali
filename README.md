@@ -45,12 +45,3 @@
 
 ![Skills](https://skillicons.dev/icons?i=vscode,notion)
 
-
-
-
-
-
-
-
-
-
