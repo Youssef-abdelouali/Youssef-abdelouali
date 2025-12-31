@@ -35,7 +35,7 @@
 
 ![Skills](https://skillicons.dev/icons?i=postman,graphql,jest)
 
-# $$\color{#15b78e}{Support \ \&\ Productivity \ Tools}$$
+# $$\color{#15b78e}{OTHER}$$
 
 **_Version Control & Git Tools & Deployment & Hosting:_**  
 
